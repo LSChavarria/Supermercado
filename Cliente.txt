@@ -1,0 +1,9 @@
+2000	Luis	N-12	Macro	123	123456789	Inactivo
+2001	Dante	Diamante	Macroples	321	87654321	Inactivo
+2003	Joseph	Cima	Ebanos	234	123467890	Inactivo
+2004	Dan	sello	calle	4342	209876	Activo
+2005	Sebas	well	cel	123	6543	Activo
+2006	Sebastian	N-32	COlsdw	543	876543456	Activo
+2007	Hector	X-123	Meca	3221	45678	Activo
+2008	Osmar	Diamantino	Cedro	123	8765432	Inactivo
+2009	Alex	Rio	Janeiro	2016	87654321	Activo

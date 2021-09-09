@@ -1,0 +1,8 @@
+4000	Carros	Inactivo
+4001	Cerveza	Inactivo
+4003	Bebida	Activo
+4005	Frutsi	Inactivo
+4006	3DS	Activo
+4006	sebastian	Activo
+4007	Carro	Activo
+4008	Motos	Inactivo

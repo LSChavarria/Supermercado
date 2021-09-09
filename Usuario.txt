@@ -1,0 +1,4 @@
+1001	DanX38	DOLL2198 Dante	1 Activo
+1002	Luis98	Sebas000 Carrerin	1 Activo
+1003	alex29	Droide29 alejandro	2 Activo
+1004	Jose10	Josefo10 Josefo	2 Inactivo
